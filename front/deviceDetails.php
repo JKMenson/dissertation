@@ -4,7 +4,7 @@
 #
 #  deviceDetails.php - Front module. Device management page
 #-------------------------------------------------------------------------------
-#  Puche 2021        pi.alert.application@gmail.com        GNU GPLv3
+#  
 #--------------------------------------------------------------------------- -->
 
 <?php

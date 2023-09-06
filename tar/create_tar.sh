@@ -5,7 +5,7 @@
 #
 #  create_tar.sh - Create the tar file for installation
 # ------------------------------------------------------------------------------
-#  Puche 2021        pi.alert.application@gmail.com        GNU GPLv3
+#  
 # ------------------------------------------------------------------------------
 
 PIALERT_DEV_PATH=/media/WD_4TB/dev
